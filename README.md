@@ -1,11 +1,16 @@
 ## Movie Search App
-This project is a simple web application that allows users to view popular movies and search for movies. It uses the TMDb (The Movie Database) API to fetch movie information and display it on the user interface.
 
-## Features
+This project is a simple web application that allows users to view popular movies and search for movies. 
+It uses the TMDb (The Movie Database) API to fetch movie information and display it on the user interface.
+
+## Features :
+
 Popular Movies: Displays popular movies on the homepage.
 Movie Search: Users can search for movies by name.
 Movie Details: Shows details about the movie, including title, vote average, and overview.
-## Technologies
+
+## Technologies:
+
 HTML: Page structure
 CSS: Page design
 JavaScript: Interaction with the API and dynamic content updates
